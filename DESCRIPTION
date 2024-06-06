@@ -1,0 +1,16 @@
+Package: InversionDetector
+Type: package
+Title: Inversion Detector
+Version: 0.1.0
+Author: c(person("Ella", "Skinner-Sloan", email = "es2088@bard.edu", role = c("aut", "cre")),
+    person("Julia", "Beeman", email = "jb1795@bard.edu", role = "aut"),
+    person("Darrion", "Thornburgh", email = "dt9275@bard.edu", role = "aut"),
+    person("Valerie", "Barr", email = "vbarr@bard.edu", role = "fnd"))
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
